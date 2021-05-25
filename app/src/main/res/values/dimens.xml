@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main -->
+    <dimen name="main_width_and_height_progressbar">64dp</dimen>
+
+</resources>

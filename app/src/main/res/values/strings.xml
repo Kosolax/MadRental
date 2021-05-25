@@ -1,0 +1,25 @@
+<resources>
+    <!-- Common -->
+    <string name="app_name">MadRental</string>
+
+    <!-- MainActivity -->
+    <string name="main_error_internet_connection">Aucune connexion internet</string>
+    <string name="main_day_price">€ / jour</string>
+    <string name="main_category_co2">Catégorie CO2 :</string>
+    <string name="main_error_connection_ws">Une erreur est survenu lors de la communication avec le serveur.</string>
+    <string name="main_switch">Favoris</string>
+    <string name="main_switch_state">switch_state</string>
+
+    <!-- VehicleFragment -->
+    <string name="vehicle_fragment_button">Ajouter aux favoris</string>
+    <string name="vehicle_fragment_error_already_added_to_fav">Le véhicule a déjà été ajouté aux favoris.</string>
+    <string name="vehicle_fragment_add_to_fav">Vous venez d\'ajouter le véhicule aux favoris.</string>
+
+    <!-- VehicleAdapter -->
+    <string name="currentId">currentId</string>
+    <string name="textViewNameVehicle">textViewNameVehicle</string>
+    <string name="textViewDayPriceVehicle">textViewDayPriceVehicle</string>
+    <string name="textViewCategoryCO2Vehicle">textViewCategoryCO2Vehicle</string>
+
+    <!-- -->
+</resources>
